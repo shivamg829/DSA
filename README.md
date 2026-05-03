@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivamg829/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shivamg829/DSA/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shivamg829/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
