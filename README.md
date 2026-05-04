@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shivamg829/DSA/tree/master/0048-rotate-image) |
 | [0319-bulb-switcher](https://github.com/shivamg829/DSA/tree/master/0319-bulb-switcher) |
 | [0788-rotated-digits](https://github.com/shivamg829/DSA/tree/master/0788-rotated-digits) |
 ## Brainteaser
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shivamg829/DSA/tree/master/0048-rotate-image) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivamg829/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shivamg829/DSA/tree/master/0048-rotate-image) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivamg829/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## String
 |  |
