@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/shivamg829/DSA/tree/master/0785-is-graph-bipartite) |
 | [1306-jump-game-iii](https://github.com/shivamg829/DSA/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
 ## Union-Find
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivamg829/DSA/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamg829/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1306-jump-game-iii](https://github.com/shivamg829/DSA/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
 | [1861-rotating-the-box](https://github.com/shivamg829/DSA/tree/master/1861-rotating-the-box) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivamg829/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivamg829/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamg829/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
