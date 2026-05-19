@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/shivamg829/DSA/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
 | [1861-rotating-the-box](https://github.com/shivamg829/DSA/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/shivamg829/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivamg829/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivamg829/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/shivamg829/DSA/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/shivamg829/DSA/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/shivamg829/DSA/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
 | ------- |
@@ -78,8 +80,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamg829/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2540-minimum-common-value](https://github.com/shivamg829/DSA/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
+| [2540-minimum-common-value](https://github.com/shivamg829/DSA/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
