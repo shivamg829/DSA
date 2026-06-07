@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivamg829/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/shivamg829/DSA/tree/master/1861-rotating-the-box) |
 | [2126-destroying-asteroids](https://github.com/shivamg829/DSA/tree/master/2126-destroying-asteroids) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/shivamg829/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/shivamg829/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivamg829/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shivamg829/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/shivamg829/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/shivamg829/DSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivamg829/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -122,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/shivamg829/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamg829/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamg829/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/shivamg829/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivamg829/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamg829/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamg829/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/shivamg829/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Sorting
 |  |
 | ------- |
