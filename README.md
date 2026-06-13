@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivamg829/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shivamg829/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivamg829/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3838-weighted-word-mapping](https://github.com/shivamg829/DSA/tree/master/3838-weighted-word-mapping) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0796-rotate-string](https://github.com/shivamg829/DSA/tree/master/0796-rotate-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3838-weighted-word-mapping](https://github.com/shivamg829/DSA/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shivamg829/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivamg829/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/shivamg829/DSA/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
