@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamg829/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamg829/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamg829/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/shivamg829/DSA/tree/master/0048-rotate-image) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shivamg829/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shivamg829/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivamg829/DSA/tree/master/0242-valid-anagram) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Tree
 |  |
