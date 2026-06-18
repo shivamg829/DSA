@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shivamg829/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivamg829/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivamg829/DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/shivamg829/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/shivamg829/DSA/tree/master/0796-rotate-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shivamg829/DSA/tree/master/3614-process-string-with-special-operations-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivamg829/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/shivamg829/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamg829/DSA/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/shivamg829/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shivamg829/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/shivamg829/DSA/tree/master/2540-minimum-common-value) |
@@ -202,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivamg829/DSA/tree/master/0053-maximum-subarray) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shivamg829/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shivamg829/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
