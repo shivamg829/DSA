@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shivamg829/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivamg829/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/shivamg829/DSA/tree/master/0796-rotate-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamg829/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/shivamg829/DSA/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/shivamg829/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/shivamg829/DSA/tree/master/0283-move-zeroes) |
 | [1861-rotating-the-box](https://github.com/shivamg829/DSA/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamg829/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
