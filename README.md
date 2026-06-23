@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamg829/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0788-rotated-digits](https://github.com/shivamg829/DSA/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/shivamg829/DSA/tree/master/1340-jump-game-v) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/shivamg829/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivamg829/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shivamg829/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shivamg829/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamg829/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/shivamg829/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/shivamg829/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
 |  |
 | ------- |
