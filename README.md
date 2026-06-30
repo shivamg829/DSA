@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shivamg829/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/shivamg829/DSA/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shivamg829/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamg829/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivamg829/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shivamg829/DSA/tree/master/3614-process-string-with-special-operations-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shivamg829/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/shivamg829/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamg829/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shivamg829/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/shivamg829/DSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivamg829/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamg829/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamg829/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting Sort
 |  |
 | ------- |
