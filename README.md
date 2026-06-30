@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivamg829/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivamg829/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shivamg829/DSA/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/shivamg829/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamg829/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shivamg829/DSA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/shivamg829/DSA/tree/master/0875-koko-eating-bananas) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivamg829/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamg829/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamg829/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0525-contiguous-array](https://github.com/shivamg829/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamg829/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/shivamg829/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shivamg829/DSA/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/shivamg829/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamg829/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shivamg829/DSA/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/shivamg829/DSA/tree/master/2574-left-and-right-sum-differences) |
