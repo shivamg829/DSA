@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/shivamg829/DSA/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamg829/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/shivamg829/DSA/tree/master/0785-is-graph-bipartite) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamg829/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/shivamg829/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamg829/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivamg829/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shivamg829/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shivamg829/DSA/tree/master/3689-maximum-total-subarray-value-i) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shivamg829/DSA/tree/master/0994-rotting-oranges) |
 | [1861-rotating-the-box](https://github.com/shivamg829/DSA/tree/master/1861-rotating-the-box) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamg829/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivamg829/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
@@ -372,8 +376,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamg829/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/shivamg829/DSA/tree/master/0938-range-sum-of-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamg829/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
