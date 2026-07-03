@@ -13,11 +13,11 @@ public:
     ListNode* reverseList(ListNode* head) {
         ListNode* prev = NULL;
         ListNode* curr = head;
-        while(curr){
-            ListNode* nextNode = curr->next;
+        while(curr!=NULL){
+            ListNode* front = curr->next;
             curr->next = prev;
             prev=curr;
-            curr = nextNode;
+            curr=front;
         }
         return prev;
     }
