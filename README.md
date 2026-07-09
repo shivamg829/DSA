@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/shivamg829/DSA/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shivamg829/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamg829/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/shivamg829/DSA/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shivamg829/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamg829/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamg829/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/shivamg829/DSA/tree/master/3620-network-recovery-pathways) |
 ## Array
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamg829/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivamg829/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamg829/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/shivamg829/DSA/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shivamg829/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shivamg829/DSA/tree/master/3689-maximum-total-subarray-value-i) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivamg829/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2540-minimum-common-value](https://github.com/shivamg829/DSA/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamg829/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/shivamg829/DSA/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shivamg829/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivamg829/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamg829/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamg829/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivamg829/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivamg829/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3926-count-valid-word-occurrences](https://github.com/shivamg829/DSA/tree/master/3926-count-valid-word-occurrences) |
