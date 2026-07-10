@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamg829/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamg829/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivamg829/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/shivamg829/DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamg829/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamg829/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamg829/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivamg829/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamg829/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/shivamg829/DSA/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/shivamg829/DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/shivamg829/DSA/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/shivamg829/DSA/tree/master/1306-jump-game-iii) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivamg829/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/shivamg829/DSA/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/shivamg829/DSA/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shivamg829/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamg829/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivamg829/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivamg829/DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/shivamg829/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamg829/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/shivamg829/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shivamg829/DSA/tree/master/0238-product-of-array-except-self) |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivamg829/DSA/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/shivamg829/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/shivamg829/DSA/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivamg829/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/shivamg829/DSA/tree/master/1861-rotating-the-box) |
