@@ -6,7 +6,7 @@ public:
         for(int i = 0; i<prerequisites.size(); i++){
             int u = prerequisites[i][0];
             int v = prerequisites[i][1];
-            if(u == src){ // FIX 1: Only traverse edges starting from src
+            if(u == src){ 
                 if(!vis[v]){
                     if(isCycle(v, vis, recPath, prerequisites)){
                         return true;
