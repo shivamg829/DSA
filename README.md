@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivamg829/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivamg829/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/shivamg829/DSA/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/shivamg829/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/shivamg829/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivamg829/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shivamg829/DSA/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivamg829/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/shivamg829/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/shivamg829/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamg829/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shivamg829/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shivamg829/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivamg829/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamg829/DSA/tree/master/0268-missing-number) |
+| [1331-rank-transform-of-an-array](https://github.com/shivamg829/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/shivamg829/DSA/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivamg829/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shivamg829/DSA/tree/master/1840-maximum-building-height) |
