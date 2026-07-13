@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamg829/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamg829/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shivamg829/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/shivamg829/DSA/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamg829/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamg829/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivamg829/DSA/tree/master/0169-majority-element) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shivamg829/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamg829/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamg829/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/shivamg829/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shivamg829/DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shivamg829/DSA/tree/master/0322-coin-change) |
 | [0788-rotated-digits](https://github.com/shivamg829/DSA/tree/master/0788-rotated-digits) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivamg829/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivamg829/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shivamg829/DSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/shivamg829/DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/shivamg829/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivamg829/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamg829/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamg829/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shivamg829/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shivamg829/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/shivamg829/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/shivamg829/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shivamg829/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivamg829/DSA/tree/master/0229-majority-element-ii) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/shivamg829/DSA/tree/master/0139-word-break) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Tree
 |  |
@@ -498,4 +503,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivamg829/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shivamg829/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
