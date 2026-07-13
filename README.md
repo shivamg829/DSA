@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shivamg829/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shivamg829/DSA/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/shivamg829/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shivamg829/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivamg829/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/shivamg829/DSA/tree/master/0319-bulb-switcher) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivamg829/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shivamg829/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamg829/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamg829/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/shivamg829/DSA/tree/master/0198-house-robber) |
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamg829/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivamg829/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
