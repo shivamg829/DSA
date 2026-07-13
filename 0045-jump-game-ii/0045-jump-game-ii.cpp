@@ -5,14 +5,12 @@ public:
         int l = 0;
         int r = 0;
         int n = nums.size();
-        while(r<n-1){
-            int f = 0;
-            for(int i = l; i<=r; i++){
-                f = max(f, i+nums[i]);
+        for(int i = 0; i<n-1; i++){
+            r  = max(r, i+nums[i]);
+            if(i==l){
+                j++;
+                l=r;
             }
-            l = r+1;
-            r = f;
-            j++;
         }
         return j;
     }
