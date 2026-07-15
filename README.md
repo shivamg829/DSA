@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shivamg829/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shivamg829/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shivamg829/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/shivamg829/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/shivamg829/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamg829/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamg829/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
