@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/shivamg829/DSA/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamg829/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivamg829/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shivamg829/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/shivamg829/DSA/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivamg829/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivamg829/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shivamg829/DSA/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamg829/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivamg829/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shivamg829/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/shivamg829/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamg829/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivamg829/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivamg829/DSA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamg829/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shivamg829/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/shivamg829/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamg829/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivamg829/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivamg829/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shivamg829/DSA/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamg829/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shivamg829/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamg829/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting Sort
 |  |
