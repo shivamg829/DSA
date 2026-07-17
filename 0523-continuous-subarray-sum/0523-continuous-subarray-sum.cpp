@@ -11,7 +11,7 @@ public:
                 currSum = currSum%k;
             }
             if(mp.find(currSum)!=mp.end()){
-                if(i-mp[currSum]>1){
+                if(i-mp[currSum]>=2){
                     return true;
                 }
             }
