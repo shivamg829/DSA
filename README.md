@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/shivamg829/DSA/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shivamg829/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/shivamg829/DSA/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivamg829/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shivamg829/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivamg829/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamg829/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivamg829/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/shivamg829/DSA/tree/master/1861-rotating-the-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivamg829/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivamg829/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/shivamg829/DSA/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shivamg829/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shivamg829/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivamg829/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamg829/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivamg829/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamg829/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
