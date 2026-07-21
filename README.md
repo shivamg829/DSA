@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shivamg829/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shivamg829/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shivamg829/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shivamg829/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamg829/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamg829/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shivamg829/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shivamg829/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamg829/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shivamg829/DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/shivamg829/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shivamg829/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivamg829/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/shivamg829/DSA/tree/master/0567-permutation-in-string) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shivamg829/DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamg829/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivamg829/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/shivamg829/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shivamg829/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivamg829/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivamg829/DSA/tree/master/0739-daily-temperatures) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shivamg829/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/shivamg829/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shivamg829/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shivamg829/DSA/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
