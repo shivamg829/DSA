@@ -1,41 +1,42 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        ListNode* slow=head;
+        if (head == NULL || head->next == NULL)
+            return;
+
+        ListNode* slow = head;
         ListNode* fast = head;
-        while(fast!=NULL && fast->next!=NULL){
-            slow=slow->next;
-            fast=fast->next->next;
+
+        // Find middle
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        ListNode* second = slow->next;
-        ListNode* prev = NULL;
+        // Separate and reverse second half
+        ListNode* curr = slow->next;
         slow->next = NULL;
-        while(second!=NULL){
-            ListNode* front = second->next;
-            second->next=prev;
-            prev=second;
-            second=front;
+        ListNode* prev = NULL;
+        while (curr != NULL) {
+            ListNode* front = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = front;
         }
+
+        // Merge both halves
+        ListNode* second = prev;
         ListNode* first = head;
-        second = prev;
-        while(second){
+
+        while (second != NULL) {
             ListNode* t1 = first->next;
             ListNode* t2 = second->next;
+
             first->next = second;
             second->next = t1;
-            second=t2;
-            first=t1;
+
+            first = t1;
+            second = t2;
         }
     }
 };
