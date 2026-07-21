@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivamg829/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivamg829/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shivamg829/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shivamg829/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/shivamg829/DSA/tree/master/3838-weighted-word-mapping) |
 | [3926-count-valid-word-occurrences](https://github.com/shivamg829/DSA/tree/master/3926-count-valid-word-occurrences) |
@@ -639,4 +640,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamg829/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shivamg829/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
