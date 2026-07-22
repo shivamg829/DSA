@@ -3,18 +3,18 @@ public:
     bool checkInclusion(string s1, string s2) {
         int n = s1.size();
         int m = s2.size();
-        vector<int>f1(26, 0);
-        vector<int>f2(26, 0);
-        if(n>m) return false;
+        if(m<n) return false;
+        vector<int>freq1(26, 0);
+        vector<int>freq2(26, 0);
         for(int i = 0; i<n; i++){
-            f1[s1[i]-'a']++;
-            f2[s2[i]-'a']++;
+            freq1[s1[i]-'a']++;
+            freq2[s2[i]-'a']++;
         }
-        if(f1==f2) return true;
-        for(int j = n; j<m; j++){
-            f2[s2[j]-'a']++;
-            f2[s2[j-n]-'a']--;
-            if(f1==f2) return true;
+        if(freq1==freq2) return true;
+        for(int i = n; i<m; i++){
+            freq2[s2[i]-'a']++;
+            freq2[s2[i-n]-'a']--;
+            if(freq1==freq2) return true;
         }
         return false;
     }
