@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shivamg829/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamg829/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shivamg829/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0583-delete-operation-for-two-strings](https://github.com/shivamg829/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0788-rotated-digits](https://github.com/shivamg829/DSA/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/shivamg829/DSA/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivamg829/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivamg829/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivamg829/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shivamg829/DSA/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/shivamg829/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0763-partition-labels](https://github.com/shivamg829/DSA/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/shivamg829/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamg829/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
