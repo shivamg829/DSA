@@ -1,17 +1,19 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
-        int tsum = 0;
-        for(int i = 0; i<nums.size(); i++){
-            tsum+=nums[i];
+        int n = nums.size();
+        vector<int>prefix(n, 0);
+        vector<int>sufix(n, 0);
+        for(int i = 1; i<n; i++){
+            prefix[i]=prefix[i-1]+nums[i-1];
         }
-        int lsum = 0;
-        for(int i = 0; i<nums.size(); i++){
-            int rsum = tsum-lsum-nums[i];
-            if(rsum==lsum){
+        for(int i = n-2; i>=0; i--){
+            sufix[i]=sufix[i+1]+nums[i+1];
+        }
+        for(int i = 0; i<n; i++){
+            if(sufix[i]==prefix[i]){
                 return i;
             }
-            lsum+=nums[i];
         }
         return -1;
     }
