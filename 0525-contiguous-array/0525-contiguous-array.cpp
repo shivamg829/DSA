@@ -5,19 +5,19 @@ public:
         unordered_map<int, int>mp;
         mp[0]=-1;
         int preSum = 0;
-        int len = 0;
-        for(int i= 0; i<n; i++){
+        int maxLen = 0;
+        for(int i = 0; i<n; i++){
             if(nums[i]==0){
                 preSum+=-1;
             }else{
                 preSum+=1;
             }
             if(mp.find(preSum)!=mp.end()){
-                len = max(len, i - mp[preSum]);
+                maxLen = max(maxLen, i-mp[preSum]);
             }else{
-                mp[preSum] = i;
+                mp[preSum]=i;
             }
         }
-        return len;
+        return maxLen;
     }
 };
