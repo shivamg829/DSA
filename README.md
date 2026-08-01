@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shivamg829/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shivamg829/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/shivamg829/DSA/tree/master/0319-bulb-switcher) |
+| [0486-predict-the-winner](https://github.com/shivamg829/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/shivamg829/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/shivamg829/DSA/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamg829/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shivamg829/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivamg829/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/shivamg829/DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/shivamg829/DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/shivamg829/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivamg829/DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/shivamg829/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shivamg829/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamg829/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shivamg829/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/shivamg829/DSA/tree/master/0486-predict-the-winner) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivamg829/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0788-rotated-digits](https://github.com/shivamg829/DSA/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivamg829/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shivamg829/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shivamg829/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivamg829/DSA/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/shivamg829/DSA/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shivamg829/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
@@ -705,4 +709,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/shivamg829/DSA/tree/master/0986-interval-list-intersections) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shivamg829/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
