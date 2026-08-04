@@ -717,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/shivamg829/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivamg829/DSA/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shivamg829/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
