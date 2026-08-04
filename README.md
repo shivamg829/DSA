@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shivamg829/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shivamg829/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/shivamg829/DSA/tree/master/0739-daily-temperatures) |
+| [0845-longest-mountain-in-array](https://github.com/shivamg829/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/shivamg829/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/shivamg829/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/shivamg829/DSA/tree/master/0881-boats-to-save-people) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shivamg829/DSA/tree/master/0486-predict-the-winner) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivamg829/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0788-rotated-digits](https://github.com/shivamg829/DSA/tree/master/0788-rotated-digits) |
+| [0845-longest-mountain-in-array](https://github.com/shivamg829/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/shivamg829/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivamg829/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/shivamg829/DSA/tree/master/1143-longest-common-subsequence) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shivamg829/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/shivamg829/DSA/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/shivamg829/DSA/tree/master/0763-partition-labels) |
+| [0845-longest-mountain-in-array](https://github.com/shivamg829/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamg829/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/shivamg829/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamg829/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/shivamg829/DSA/tree/master/0845-longest-mountain-in-array) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shivamg829/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Design
 |  |
