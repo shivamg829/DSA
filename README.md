@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/shivamg829/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/shivamg829/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/shivamg829/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/shivamg829/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamg829/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shivamg829/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/shivamg829/DSA/tree/master/1840-maximum-building-height) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shivamg829/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamg829/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivamg829/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/shivamg829/DSA/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shivamg829/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamg829/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/shivamg829/DSA/tree/master/1260-shift-2d-grid) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/shivamg829/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/shivamg829/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivamg829/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/shivamg829/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/shivamg829/DSA/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shivamg829/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivamg829/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shivamg829/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivamg829/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamg829/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/shivamg829/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamg829/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shivamg829/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1590-make-sum-divisible-by-p](https://github.com/shivamg829/DSA/tree/master/1590-make-sum-divisible-by-p) |
@@ -737,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/shivamg829/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivamg829/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/shivamg829/DSA/tree/master/1140-stone-game-ii) |
 ## Database
 |  |
 | ------- |
@@ -753,4 +758,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/shivamg829/DSA/tree/master/0881-boats-to-save-people) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/shivamg829/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/shivamg829/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
