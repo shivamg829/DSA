@@ -4,20 +4,20 @@ public:
         int n = nums.size();
         unordered_map<int, int>mp;
         mp[0]=-1;
-        int preSum = 0;
-        int maxLen = 0;
-        for(int i = 0; i<n; i++){
+        int presum = 0;
+        int len = 0;
+        for(int i = 0; i<nums.size(); i++){
             if(nums[i]==0){
-                preSum+=-1;
+                presum-=1;
             }else{
-                preSum+=1;
+                presum+=1;
             }
-            if(mp.find(preSum)!=mp.end()){
-                maxLen = max(maxLen, i-mp[preSum]);
+            if(mp.find(presum)!=mp.end()){
+                len = max(len, i-mp[presum]);
             }else{
-                mp[preSum]=i;
+                mp[presum] = i;
             }
         }
-        return maxLen;
+        return len;
     }
 };
