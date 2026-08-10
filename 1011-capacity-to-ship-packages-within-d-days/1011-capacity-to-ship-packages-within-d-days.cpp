@@ -1,17 +1,16 @@
 class Solution {
 public:
-    int noOfDay(vector<int>&weights, int cap){
+    int noDay(vector<int>& weights, int cap){
         int day = 1;
         int load = 0;
-        int n = weights.size();
-        for(int i = 0; i<n; i++){
-            if(load+weights[i]>cap){
-                load =weights[i];
+        for(int i = 0; i<weights.size(); i++){
+            if(weights[i]+load>cap){
                 day++;
+                load = weights[i];
             }else{
                 load+=weights[i];
             }
-        } 
+        }
         return day;
     }
     int shipWithinDays(vector<int>& weights, int days) {
@@ -19,8 +18,8 @@ public:
         int h = accumulate(weights.begin(), weights.end(), 0);
         while(l<=h){
             int m = l+(h-l)/2;
-            int noOfD = noOfDay(weights, m);
-            if(noOfD>days){
+            int noday = noDay(weights, m);
+            if(noday>days){
                 l=m+1;
             }else{
                 h=m-1;
