@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamg829/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamg829/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/shivamg829/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/shivamg829/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/shivamg829/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shivamg829/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shivamg829/DSA/tree/master/0724-find-pivot-index) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivamg829/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shivamg829/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivamg829/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0692-top-k-frequent-words](https://github.com/shivamg829/DSA/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/shivamg829/DSA/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/shivamg829/DSA/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivamg829/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/shivamg829/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamg829/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shivamg829/DSA/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/shivamg829/DSA/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/shivamg829/DSA/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamg829/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivamg829/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/shivamg829/DSA/tree/master/0139-word-break) |
+| [0692-top-k-frequent-words](https://github.com/shivamg829/DSA/tree/master/0692-top-k-frequent-words) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Tree
 |  |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shivamg829/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/shivamg829/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivamg829/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0692-top-k-frequent-words](https://github.com/shivamg829/DSA/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/shivamg829/DSA/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamg829/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamg829/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -630,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shivamg829/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shivamg829/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamg829/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/shivamg829/DSA/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivamg829/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/shivamg829/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamg829/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -685,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamg829/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivamg829/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/shivamg829/DSA/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivamg829/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamg829/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamg829/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -809,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivamg829/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/shivamg829/DSA/tree/master/0692-top-k-frequent-words) |
 ## Geometry
 |  |
 | ------- |
