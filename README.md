@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivamg829/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamg829/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivamg829/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shivamg829/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shivamg829/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shivamg829/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamg829/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamg829/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivamg829/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivamg829/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamg829/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamg829/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivamg829/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivamg829/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamg829/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivamg829/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivamg829/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting Sort
 |  |
 | ------- |
