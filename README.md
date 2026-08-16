@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/shivamg829/DSA/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/shivamg829/DSA/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamg829/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/shivamg829/DSA/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shivamg829/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivamg829/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamg829/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/shivamg829/DSA/tree/master/1861-rotating-the-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivamg829/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamg829/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/shivamg829/DSA/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/shivamg829/DSA/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shivamg829/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shivamg829/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamg829/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivamg829/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivamg829/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/shivamg829/DSA/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/shivamg829/DSA/tree/master/2126-destroying-asteroids) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shivamg829/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamg829/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shivamg829/DSA/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivamg829/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/shivamg829/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/shivamg829/DSA/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamg829/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamg829/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamg829/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -786,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shivamg829/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shivamg829/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shivamg829/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivamg829/DSA/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
 | ------- |
@@ -807,15 +812,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivamg829/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shivamg829/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivamg829/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivamg829/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shivamg829/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivamg829/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shivamg829/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivamg829/DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
