@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shivamg829/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shivamg829/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/shivamg829/DSA/tree/master/0319-bulb-switcher) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivamg829/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/shivamg829/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/shivamg829/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/shivamg829/DSA/tree/master/0788-rotated-digits) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shivamg829/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shivamg829/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivamg829/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivamg829/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamg829/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shivamg829/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivamg829/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivamg829/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamg829/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivamg829/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivamg829/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamg829/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamg829/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivamg829/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/shivamg829/DSA/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/shivamg829/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivamg829/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivamg829/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
@@ -845,4 +849,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivamg829/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivamg829/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
