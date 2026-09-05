@@ -7,10 +7,18 @@ class Solution {
         //     }
         // }
         // return false;
+        // HashSet<Integer> st = new HashSet<>();
+        // for(int i = 0; i<nums.length; i++){
+        //     st.add(nums[i]);
+        // }
+        // return st.size() < nums.length;
         HashSet<Integer> st = new HashSet<>();
-        for(int i = 0; i<nums.length; i++){
-            st.add(nums[i]);
+        for(int num : nums){
+            if(st.contains(num)){
+                return true;
+            }
+            st.add(num);
         }
-        return st.size() < nums.length;
+        return false;
     }
 }
