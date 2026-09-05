@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/shivamg829/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivamg829/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3904-smallest-stable-index-ii](https://github.com/shivamg829/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3926-count-valid-word-occurrences](https://github.com/shivamg829/DSA/tree/master/3926-count-valid-word-occurrences) |
 ## Dynamic Programming
 |  |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/shivamg829/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivamg829/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivamg829/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/shivamg829/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
