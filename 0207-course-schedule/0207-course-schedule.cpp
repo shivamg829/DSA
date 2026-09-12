@@ -1,34 +1,32 @@
 class Solution {
 public:
-    bool isCycle(int src, vector<bool>&vis, vector<bool>&recPath, vector<vector<int>>& prerequisites){
-        vis[src]=true;
-        recPath[src]=true;
-        for(int i = 0; i<prerequisites.size(); i++){
-            int u = prerequisites[i][0];
-            int v = prerequisites[i][1];
-            if(u == src){ 
-                if(!vis[v]){
-                    if(isCycle(v, vis, recPath, prerequisites)){
-                        return true;
-                    }
-                }else if(recPath[v]){
-                    return true;
-                }
-            }
-        }
-        recPath[src] = false;
-        return false;
-    }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<bool>vis(numCourses, false);
-        vector<bool>recPath(numCourses, false);
-        for(int i = 0; i<numCourses; i++){ 
-            if(!vis[i]){
-                if(isCycle(i, vis, recPath, prerequisites)){
-                    return false;
+        vector<vector<int>>adj(numCourses);
+        vector<int>indegree(numCourses, 0);
+        for(int i = 0; i<prerequisites.size(); i++){
+            int src = prerequisites[i][0];
+            int des = prerequisites[i][1];
+            adj[src].push_back(des);
+            indegree[des]++;
+        }
+        queue<int>q;
+        for(int i= 0; i<numCourses; i++){
+            if(indegree[i]==0){
+                q.push(i);
+            }
+        }
+        int processed = 0;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            processed++;
+            for(int neigh : adj[node]){
+                indegree[neigh]--;
+                if(indegree[neigh]==0){
+                    q.push(neigh);
                 }
             }
         }
-        return true;
+        return processed == numCourses;
     }
 };
