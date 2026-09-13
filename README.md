@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shivamg829/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shivamg829/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/shivamg829/DSA/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/shivamg829/DSA/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/shivamg829/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/shivamg829/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/shivamg829/DSA/tree/master/0877-stone-game) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shivamg829/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shivamg829/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivamg829/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0835-image-overlap](https://github.com/shivamg829/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/shivamg829/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/shivamg829/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivamg829/DSA/tree/master/1301-number-of-paths-with-max-score) |
