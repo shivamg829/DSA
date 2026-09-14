@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shivamg829/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/shivamg829/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/shivamg829/DSA/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/shivamg829/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shivamg829/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamg829/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/shivamg829/DSA/tree/master/1140-stone-game-ii) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/shivamg829/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamg829/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
