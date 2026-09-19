@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shivamg829/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamg829/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shivamg829/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shivamg829/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/shivamg829/DSA/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivamg829/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/shivamg829/DSA/tree/master/1840-maximum-building-height) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shivamg829/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamg829/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shivamg829/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## K-D Tree
 |  |
 | ------- |
