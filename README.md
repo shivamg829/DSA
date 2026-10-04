@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/shivamg829/DSA/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/shivamg829/DSA/tree/master/0938-range-sum-of-bst) |
 | [1306-jump-game-iii](https://github.com/shivamg829/DSA/tree/master/1306-jump-game-iii) |
+| [1631-path-with-minimum-effort](https://github.com/shivamg829/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivamg829/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shivamg829/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/shivamg829/DSA/tree/master/3310-remove-methods-from-project) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/shivamg829/DSA/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/shivamg829/DSA/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/shivamg829/DSA/tree/master/1345-jump-game-iv) |
+| [1631-path-with-minimum-effort](https://github.com/shivamg829/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shivamg829/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamg829/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shivamg829/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shivamg829/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shivamg829/DSA/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/shivamg829/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shivamg829/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamg829/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivamg829/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamg829/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/shivamg829/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1631-path-with-minimum-effort](https://github.com/shivamg829/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shivamg829/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivamg829/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivamg829/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shivamg829/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/shivamg829/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivamg829/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1631-path-with-minimum-effort](https://github.com/shivamg829/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/shivamg829/DSA/tree/master/1861-rotating-the-box) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivamg829/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -477,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shivamg829/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivamg829/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivamg829/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1631-path-with-minimum-effort](https://github.com/shivamg829/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2540-minimum-common-value](https://github.com/shivamg829/DSA/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamg829/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -821,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/shivamg829/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shivamg829/DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamg829/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/shivamg829/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shivamg829/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamg829/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamg829/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1015,4 +1022,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/shivamg829/DSA/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/shivamg829/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
