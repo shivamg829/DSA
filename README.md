@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shivamg829/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shivamg829/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/shivamg829/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/shivamg829/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/shivamg829/DSA/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/shivamg829/DSA/tree/master/0938-range-sum-of-bst) |
 | [1306-jump-game-iii](https://github.com/shivamg829/DSA/tree/master/1306-jump-game-iii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shivamg829/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/shivamg829/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/shivamg829/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/shivamg829/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/shivamg829/DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/shivamg829/DSA/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/shivamg829/DSA/tree/master/1096-brace-expansion-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shivamg829/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shivamg829/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shivamg829/DSA/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/shivamg829/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/shivamg829/DSA/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/shivamg829/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shivamg829/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shivamg829/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shivamg829/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/shivamg829/DSA/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/shivamg829/DSA/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/shivamg829/DSA/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/shivamg829/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/shivamg829/DSA/tree/master/0875-koko-eating-bananas) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shivamg829/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shivamg829/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivamg829/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-swim-in-rising-water](https://github.com/shivamg829/DSA/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/shivamg829/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/shivamg829/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/shivamg829/DSA/tree/master/1260-shift-2d-grid) |
@@ -481,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamg829/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivamg829/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shivamg829/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/shivamg829/DSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/shivamg829/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamg829/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivamg829/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -833,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shivamg829/DSA/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivamg829/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/shivamg829/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/shivamg829/DSA/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamg829/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shivamg829/DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamg829/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -955,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/shivamg829/DSA/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/shivamg829/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shivamg829/DSA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/shivamg829/DSA/tree/master/2029-stone-game-ix) |
@@ -1033,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/shivamg829/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/shivamg829/DSA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/shivamg829/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Indexed Tree
 |  |
