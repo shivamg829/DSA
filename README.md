@@ -1055,4 +1055,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivamg829/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shivamg829/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
